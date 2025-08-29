@@ -43,7 +43,7 @@ Learn how to deploy a full MERN stack application to production, implement CI/CD
   - Create workflows for running tests
   - Configure linting and code quality checks
   - Implement automated building of the application
-- Implement continuous deployment
+  - Implement continuous deployment
   - Configure automatic deployment on successful builds
   - Set up staging and production environments
   - Implement rollback strategies
